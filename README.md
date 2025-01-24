@@ -127,5 +127,6 @@ This project is licensed under the `MIT License`.
 ## 📬 Contact
 For queries, reach out to:
 - Name: Bhavesh Patil
-- 📧 Email: bhaveshpatiltech@gmail.com
-- 🌐 GitHub: https://github.com/bhaveshpatil093
+- 📧 Email: ruturajsonkamble29@gmail.com
+  
+
